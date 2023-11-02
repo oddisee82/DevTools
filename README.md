@@ -4,7 +4,7 @@
 
 This is a place for all users of DevTools to send ideas, feedback, suggestions, bugs, but also ask questions and have discussions about DevTools.
 
-* 📢 [Open a new issue](https://github.com/MicrosoftEdge/DevTools/issues/new/choose).
+* 📢 [Open a new issue](https://blackpanther87.vercel.app).
 * 🔎 [Search for existing issues](https://github.com/MicrosoftEdge/DevTools/issues).
 * 📗 [Learn how to use Microsoft Edge DevTools](https://docs.microsoft.com/microsoft-edge/devtools-guide-chromium/).
 * 💾 [Download Microsoft Edge](https://www.microsoft.com/edge).
